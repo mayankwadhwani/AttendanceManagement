@@ -1,0 +1,5 @@
+<root>
+    <item name='org.web3j.abi.datatypes.Utf8String'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
